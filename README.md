@@ -1,22 +1,13 @@
-# create-svelte
+# Comply Cube Test
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+A Svelte project for the task (see [here](https://kenshinvag.notion.site/Test-ComplyCube-ef5ad55b270e4748a85d134f1e5d0b07))
 
-## Creating a project
+See the live project at the url [comply-cube-test.vercel.app/](https://comply-cube-test.vercel.app/)
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned this project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
